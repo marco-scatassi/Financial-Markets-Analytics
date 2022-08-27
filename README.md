@@ -1,4 +1,4 @@
-# Financial-Markets-Analytics
+# Financial Markets Analytics
 
 This exam consisted of an oral test and a project on the main topics of the course.
 
